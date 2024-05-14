@@ -1,0 +1,1 @@
+Un juego de consola para jugar el ahorcado ingresando  palablas el cual se escogera 1 al azar para adivinar tendra 6 vidas para adivinar la palabra
